@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Darien 
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Informtaion Systems in Singapore Management University
+- 🌱 I’m currently learning Information Systems in Singapore Management University
 
 
 <!---
